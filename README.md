@@ -62,6 +62,22 @@ git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimp
 ```bash
 git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
 ```
+### ATTO
+- https://github.com/dthies/moodle-atto_cloze
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
+```
+
+- https://github.com/dthies/moodle-atto_fullscreen
+```bash
+git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git lib/editor/atto/plugins/fullscreen
+```
+
+- https://moodle.org/plugins/atto_justify
+```bash
+git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
+```
+
 ### ADMIN
 
 
