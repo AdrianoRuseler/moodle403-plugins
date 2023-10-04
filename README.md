@@ -45,3 +45,23 @@ git submodule add -b MOODLE_402_STABLE https://github.com/markn86/moodle-mod_cus
 ```bash
 git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
+- https://github.com/moodleworkplace/moodle-mod_coursecertificate
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
+```
+
+
+## To be removed
+
+- https://github.com/udima-university/moodle-mod_jitsi
+```bash
+git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
+```
+
+- https://github.com/h5p/h5p-moodle-plugin
+```bash
+git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
+cd mod/hvp
+git submodule update --init
+```
+
