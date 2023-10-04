@@ -50,6 +50,15 @@ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git 
 git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 
+### ADMIN
+
+
+- https://github.com/moodleworkplace/moodle-tool_certificate
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+```
+
+
 
 ## To be removed
 
