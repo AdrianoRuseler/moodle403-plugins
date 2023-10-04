@@ -78,6 +78,36 @@ git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 ```
 
+### BLOCK
+
+- https://github.com/FMCorz/moodle-block_xp
+```bash
+git submodule add -b master https://github.com/FMCorz/moodle-block_xp.git blocks/xp
+```
+
+- https://github.com/deraadt/moodle-block_completion_progress
+```bash
+git submodule add -b master https://github.com/deraadt/moodle-block_completion_progress.git blocks/completion_progress
+```
+
+- https://github.com/catalyst/moodle-block_dedication
+```bash
+git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-block_dedication.git blocks/dedication
+```
+
+- https://github.com/donhinkelman/moodle-block_sharing_cart
+```bash
+git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing_cart.git blocks/sharing_cart
+```
+
+- https://github.com/remotelearner/moodle-block_grade_me
+```bash
+git submodule add -b MOODLE_401_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
+```
+
+
+
+
 ### ADMIN
 
 
