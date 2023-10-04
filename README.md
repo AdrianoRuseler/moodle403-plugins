@@ -105,18 +105,27 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 git submodule add -b MOODLE_401_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
 ```
 
+### REPORT
+- https://github.com/catalyst/moodle-report_coursesize
+```bash
+git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
+```
 
+- https://github.com/mikasmart/moodle-report_benchmark
+```bash
+git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark.git report/benchmark
+```
+- https://github.com/catalyst/moodle-report_allbackups
 
+```bash
+git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
+```
 
 ### ADMIN
-
-
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
-
-
 
 ## To be removed
 
@@ -132,3 +141,7 @@ cd mod/hvp
 git submodule update --init
 ```
 
+- https://github.com/moodleou/moodle-report_customsql
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
+```
