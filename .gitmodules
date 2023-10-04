@@ -58,3 +58,15 @@
 	path = moodle/mod/quiz/report/group
 	url = https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git
 	branch = master
+[submodule "moodle/lib/editor/atto/plugins/cloze"]
+	path = moodle/lib/editor/atto/plugins/cloze
+	url = https://github.com/dthies/moodle-atto_cloze.git
+	branch = master
+[submodule "moodle/lib/editor/atto/plugins/fullscreen"]
+	path = moodle/lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
+[submodule "moodle/lib/editor/atto/plugins/justify"]
+	path = moodle/lib/editor/atto/plugins/justify
+	url = https://github.com/moodle-ead/atto_justify.git
+	branch = master
