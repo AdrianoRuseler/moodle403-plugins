@@ -50,6 +50,15 @@ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git 
 git submodule add -b master https://github.com/moodleworkplace/moodle-mod_coursecertificate.git mod/coursecertificate
 ```
 
+- https://github.com/mudrd8mz/moodle-mod_subcourse
+```bash
+git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+```
+- https://github.com/ecampbell/moodle-booktool_wordimport
+```bash
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
+```
+
 ### ADMIN
 
 
