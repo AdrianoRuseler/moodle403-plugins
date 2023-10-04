@@ -12,3 +12,7 @@ git submodule add -b MOODLE_402_STABLE https://github.com/danmarsden/moodle-mod_
 ```bash
 git submodule add -b master https://github.com/ndunand/moodle-mod_choicegroup.git mod/choicegroup
 ```
+- https://github.com/frankkoch/moodle-mod_studentquiz
+```bash
+git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.git mod/studentquiz
+```
