@@ -21,3 +21,7 @@ git submodule add -b main https://github.com/frankkoch/moodle-mod_studentquiz.gi
 ```bash
 git submodule add -b master https://github.com/xow/moodle-mod_quizgame.git mod/quizgame
 ```
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b master https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
