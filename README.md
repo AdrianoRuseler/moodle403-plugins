@@ -120,6 +120,16 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 ```bash
 git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
 ```
+### AVAILABILITY
+- https://github.com/ewallah/moodle-availability_relativedate
+```bash
+git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
+```
+
+- https://github.com/MFreakNL/moodle-availability_ipaddress
+```bash
+git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
+```
 
 ### ADMIN
 - https://github.com/moodleworkplace/moodle-tool_certificate
