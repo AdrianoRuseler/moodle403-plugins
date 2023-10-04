@@ -33,3 +33,7 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
 ```bash
 git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
 ```
+- https://github.com/academic-moodle-cooperation/moodle-mod_publication
+```bash
+git submodule add -b MOODLE_402_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+```
