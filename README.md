@@ -41,3 +41,7 @@ git submodule add -b MOODLE_402_STABLE https://github.com/academic-moodle-cooper
 ```bash
 git submodule add -b MOODLE_402_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
+- https://github.com/bostelm/moodle-mod_scheduler
+```bash
+git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+```
