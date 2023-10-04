@@ -58,7 +58,10 @@ git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git m
 ```bash
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
-
+- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
+```bash
+git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
+```
 ### ADMIN
 
 
