@@ -29,3 +29,7 @@ git submodule add -b master https://github.com/jcrodriguez-dis/moodle-mod_vpl.gi
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
 ```
+- https://github.com/projectestac/moodle-mod_geogebra
+```bash
+git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.git mod/geogebra
+```
