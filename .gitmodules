@@ -54,3 +54,7 @@
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
+[submodule "moodle/mod/quiz/report/group"]
+	path = moodle/mod/quiz/report/group
+	url = https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git
+	branch = master
