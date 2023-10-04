@@ -37,3 +37,7 @@ git submodule add -b master https://github.com/projectestac/moodle-mod_geogebra.
 ```bash
 git submodule add -b MOODLE_402_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
+- https://github.com/markn86/moodle-mod_customcert
+```bash
+git submodule add -b MOODLE_402_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+```
