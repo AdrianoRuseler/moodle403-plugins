@@ -213,7 +213,17 @@ git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/fo
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
 ```
+### THEME
 
+- https://gitlab.com/jezhops/moodle-theme_adaptable
+```bash
+git submodule add -b master https://github.com/gjb2048/moodle-theme_adaptable.git theme/adaptable
+```
+
+- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
+```bash
+git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
+```
 
 ## To be removed
 
