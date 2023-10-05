@@ -191,6 +191,30 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
 ```
+
+### FORMAT
+
+- https://github.com/DigiDago/moodle-format_softcourse
+```bash
+git submodule add -b MOODLE_402_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+```
+
+- https://bitbucket.org/dw8/moodle-format_tiles
+```bash
+git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+```
+
+- https://gitlab.com/drlikm/format_etask
+```bash
+git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+```
+
+- https://github.com/moodleworkplace/moodle-format_wplist
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
+```
+
+
 ## To be removed
 
 - https://github.com/udima-university/moodle-mod_jitsi
