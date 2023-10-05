@@ -130,6 +130,51 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 ```bash
 git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
 ```
+### QTYPE
+- https://github.com/moodleou/moodle-qtype_oumultiresponse
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultiresponse.git question/type/oumultiresponse
+```
+
+- https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion
+```bash
+git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git question/type/vplquestion
+```
+
+- https://github.com/gbateson/moodle-qtype_ordering
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
+```
+
+- https://github.com/moodleou/moodle-qtype_combined
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_combined.git question/type/combined
+```
+
+- https://github.com/gbateson/moodle-qtype_essayautograde
+```bash
+git submodule add -b master https://github.com/gbateson/moodle-qtype_essayautograde.git question/type/essayautograde
+```
+
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+```
+
+- https://github.com/moodleou/moodle-qtype_pmatch
+- https://github.com/moodleou/moodle-qtype_varnumunit
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-qtype_pmatch.git question/type/pmatch
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumericset.git question/type/varnumericset
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.git question/type/varnumeric
+git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
+git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
+```
+- https://github.com/vtos/moodle-mod_adaptivequiz
+```bash
+git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
+```
 
 ### ADMIN
 - https://github.com/moodleworkplace/moodle-tool_certificate
@@ -154,4 +199,9 @@ git submodule update --init
 - https://github.com/moodleou/moodle-report_customsql
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
+```
+
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
