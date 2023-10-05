@@ -185,6 +185,12 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certi
 ```bash
 git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
+### ENROL
+
+- https://github.com/bobopinna/moodle-enrol_autoenrol
+```bash
+git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
+```
 ## To be removed
 
 - https://github.com/udima-university/moodle-mod_jitsi
