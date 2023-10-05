@@ -186,3 +186,11 @@
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
 	branch = master
+[submodule "moodle/theme/boost_union"]
+	path = moodle/theme/boost_union
+	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
+	branch = master
+[submodule "moodle/theme/adaptable"]
+	path = moodle/theme/adaptable
+	url = https://github.com/gjb2048/moodle-theme_adaptable.git
+	branch = master
