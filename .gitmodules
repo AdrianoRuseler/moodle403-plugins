@@ -166,3 +166,7 @@
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
 	branch = master
+[submodule "moodle/enrol/autoenrol"]
+	path = moodle/enrol/autoenrol
+	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
+	branch = master
