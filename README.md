@@ -181,7 +181,10 @@ git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
-
+- https://github.com/Syxton/moodle-tool_coursearchiver
+```bash
+git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
+```
 ## To be removed
 
 - https://github.com/udima-university/moodle-mod_jitsi
@@ -195,6 +198,12 @@ git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
 ```
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
+
+
 
 - https://github.com/moodleou/moodle-report_customsql
 ```bash
