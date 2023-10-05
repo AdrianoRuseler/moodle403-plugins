@@ -198,3 +198,7 @@
 	path = moodle/lib/editor/tiny/plugins/cloze
 	url = https://github.com/srobotta/moodle-tiny_cloze.git
 	branch = main
+[submodule "moodle/filter/ace_inline"]
+	path = moodle/filter/ace_inline
+	url = https://github.com/trampgeek/moodle-filter_ace_inline.git
+	branch = master
