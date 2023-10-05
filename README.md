@@ -231,6 +231,11 @@ git submodule add -b master https://github.com/gjb2048/moodle-theme_adaptable.gi
 ```bash
 git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
+###   FILTER
+- https://github.com/trampgeek/moodle-filter_ace_inline
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-filter_ace_inline.git filter/ace_inline
+```
 
 ## To be removed
 
