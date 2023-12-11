@@ -51,7 +51,7 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-mod_course
 
 - https://github.com/mudrd8mz/moodle-mod_subcourse
 ```bash
-git submodule add -b main https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 - https://github.com/ecampbell/moodle-booktool_wordimport
 ```bash
