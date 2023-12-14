@@ -252,6 +252,13 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
 ```
 
+### LOCAL
+
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+
 ## TO REMOVE:
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
