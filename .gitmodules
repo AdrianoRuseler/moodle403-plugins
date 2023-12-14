@@ -206,3 +206,11 @@
 	path = moodle/admin/tool/migratehvp2h5p
 	url = https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git
 	branch = master
+[submodule "moodle/plagiarism/turnitin"]
+	path = moodle/plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+	branch = master
+[submodule "moodle/plagiarism/turnitinsim"]
+	path = moodle/plagiarism/turnitinsim
+	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
+	branch = develop
