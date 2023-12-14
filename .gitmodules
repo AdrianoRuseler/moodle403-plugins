@@ -150,10 +150,6 @@
 	path = moodle/lib/editor/ousupsub
 	url = https://github.com/moodleou/moodle-editor_ousupsub.git
 	branch = main
-[submodule "moodle/mod/adaptivequiz"]
-	path = moodle/mod/adaptivequiz
-	url = https://github.com/vtos/moodle-mod_adaptivequiz.git
-	branch = MOODLE_400
 [submodule "moodle/admin/tool/coursearchiver"]
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
