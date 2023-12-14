@@ -214,3 +214,7 @@
 	path = moodle/plagiarism/turnitinsim
 	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
 	branch = develop
+[submodule "moodle/enrol/auto"]
+	path = moodle/enrol/auto
+	url = https://github.com/bynare/moodle-enrol_auto.git
+	branch = main
