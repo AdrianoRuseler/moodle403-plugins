@@ -205,6 +205,7 @@ git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h
 git submodule add -b master https://github.com/bobopinna/moodle-enrol_autoenrol.git enrol/autoenrol
 ```
 
+
 ### FORMAT
 
 - https://github.com/DigiDago/moodle-format_softcourse
@@ -251,14 +252,16 @@ git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnit
 git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
 ```
 
-## To be removed
-
+## TO REMOVE:
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
 
-
+- https://github.com/bynare/moodle-enrol_auto
+```bash
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
+```
 
 
 
