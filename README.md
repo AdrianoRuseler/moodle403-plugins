@@ -176,10 +176,6 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumeric.gi
 git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.git question/type/varnumunit
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
-- https://github.com/vtos/moodle-mod_adaptivequiz
-```bash
-git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
-```
 
 ### ADMIN
 - https://github.com/moodleworkplace/moodle-tool_certificate
@@ -271,4 +267,7 @@ git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz
 ```bash
 git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
-
+- https://github.com/vtos/moodle-mod_adaptivequiz
+```bash
+git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
+```
