@@ -58,6 +58,13 @@ git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_su
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
+- https://github.com/h5p/h5p-moodle-plugin
+```bash
+git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
+cd mod/hvp
+git submodule update --init
+```
+
 ### ATTO
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
@@ -186,6 +193,11 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certi
 ```bash
 git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver.git admin/tool/coursearchiver
 ```
+- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
+```bash
+git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+```
+
 ### ENROL
 
 - https://github.com/bobopinna/moodle-enrol_autoenrol
@@ -234,16 +246,7 @@ git submodule add -b master https://github.com/trampgeek/moodle-filter_ace_inlin
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
 
-- https://github.com/h5p/h5p-moodle-plugin
-```bash
-git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
-cd mod/hvp
-git submodule update --init
-```
-- https://github.com/moodlehq/moodle-tool_migratehvp2h5p
-```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
-```
+
 
 
 
