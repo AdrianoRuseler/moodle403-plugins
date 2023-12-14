@@ -57,10 +57,7 @@ git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_su
 ```bash
 git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
-- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
-```bash
-git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
-```
+
 ### ATTO
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
@@ -228,10 +225,6 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 git submodule add -b main https://github.com/gjbarnard/moodle-theme_adaptable.git theme/adaptable
 ```
 
-- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
-```bash
-git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
-```
 ###   FILTER
 - https://github.com/trampgeek/moodle-filter_ace_inline
 ```bash
@@ -267,3 +260,15 @@ git submodule add -b main https://github.com/moodleou/moodle-report_customsql.gi
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
+
+## REMOVED
+
+- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
+```bash
+git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
+```
+- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
+```bash
+git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
+```
+
