@@ -238,6 +238,18 @@ git submodule add -b main https://github.com/gjbarnard/moodle-theme_adaptable.gi
 ```bash
 git submodule add -b master https://github.com/trampgeek/moodle-filter_ace_inline.git filter/ace_inline
 ```
+### PLAGIARISM
+
+- https://github.com/turnitin/moodle-plagiarism_turnitin
+```bash
+git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
+```
+
+- https://github.com/turnitin/moodle-plagiarism_turnitinsim
+
+```bash
+git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitinsim.git plagiarism/turnitinsim
+```
 
 ## To be removed
 
