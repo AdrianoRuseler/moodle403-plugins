@@ -195,7 +195,7 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 ```
 - https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 ```bash
-git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+git submodule add -b main https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 
 ### ENROL
