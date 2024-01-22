@@ -38,10 +38,6 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
-[submodule "moodle/mod/coursecertificate"]
-	path = moodle/mod/coursecertificate
-	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
-	branch = master
 [submodule "moodle/admin/tool/certificate"]
 	path = moodle/admin/tool/certificate
 	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
