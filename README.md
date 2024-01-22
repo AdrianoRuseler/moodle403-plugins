@@ -187,7 +187,7 @@ git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git
 ### ADMIN
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
+git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle-tool_certificate.git admin/tool/certificate
 ```
 - https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
