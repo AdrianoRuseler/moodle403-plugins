@@ -163,6 +163,11 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 ```bash
 git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
 ```
+
+- https://github.com/moodleou/moodle-report_customsql
+```bash
+git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
+```
 ### AVAILABILITY
 - https://github.com/ewallah/moodle-availability_relativedate
 ```bash
@@ -263,6 +268,11 @@ git submodule add -b master https://github.com/moodleworkplace/moodle-format_wpl
 - https://github.com/gjbarnard/moodle-theme_adaptable
 ```bash
 git submodule add -b main https://github.com/gjbarnard/moodle-theme_adaptable.git theme/adaptable
+```
+
+- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
+```bash
+git submodule add -b MOODLE_403_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
 
 ###   FILTER
