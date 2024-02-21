@@ -226,3 +226,7 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = MOODLE_403_STABLE
+[submodule "moodle/mod/publication"]
+	path = moodle/mod/publication
+	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
+	branch = MOODLE_403_STABLE
