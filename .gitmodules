@@ -230,3 +230,7 @@
 	path = moodle/admin/tool/lifecycle
 	url = https://github.com/learnweb/moodle-tool_lifecycle.git
 	branch = master
+[submodule "moodle/course/format/softcourse"]
+	path = moodle/course/format/softcourse
+	url = https://github.com/DigiDago/moodle-format_softcourse.git
+	branch = MOODLE_403_STABLE
