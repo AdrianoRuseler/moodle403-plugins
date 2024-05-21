@@ -230,3 +230,7 @@
 	path = moodle/theme/adaptable
 	url = https://github.com/gjbarnard/moodle-theme_adaptable.git
 	branch = MOODLE_403
+[submodule "moodle/blocks/grade_me"]
+	path = moodle/blocks/grade_me
+	url = https://github.com/remotelearner/moodle-block_grade_me.git
+	branch = MOODLE_403_STABLE
