@@ -86,10 +86,6 @@
 	path = moodle/question/type/oumultiresponse
 	url = https://github.com/moodleou/moodle-qtype_oumultiresponse.git
 	branch = main
-[submodule "moodle/question/type/vplquestion"]
-	path = moodle/question/type/vplquestion
-	url = https://gricad-gitlab.univ-grenoble-alpes.fr/bizarda/moodle-qtype_vplquestion.git
-	branch = master
 [submodule "moodle/question/type/ordering"]
 	path = moodle/question/type/ordering
 	url = https://github.com/gbateson/moodle-qtype_ordering.git
