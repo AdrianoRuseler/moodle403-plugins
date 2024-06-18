@@ -263,10 +263,7 @@ git submodule add -b moodle43 https://bitbucket.org/dw8/moodle-format_tiles.git 
 git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
-- https://github.com/moodleworkplace/moodle-format_wplist
-```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
-```
+
 ### THEME
 
 - https://github.com/gjbarnard/moodle-theme_adaptable
@@ -314,9 +311,10 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
-
-
-
+- https://github.com/moodleworkplace/moodle-format_wplist
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
+```
 - https://github.com/moodleou/moodle-report_customsql
 ```bash
 git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
