@@ -311,15 +311,6 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 ```bash
 git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
-- https://github.com/moodleworkplace/moodle-format_wplist
-```bash
-git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
-```
-- https://github.com/moodleou/moodle-report_customsql
-```bash
-git submodule add -b main https://github.com/moodleou/moodle-report_customsql.git report/customsql
-```
-
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
 git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
@@ -331,11 +322,11 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
 ```
-- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
-```bash
-git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
-```
 - https://github.com/vtos/moodle-mod_adaptivequiz
 ```bash
 git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
+```
+- https://github.com/moodleworkplace/moodle-format_wplist
+```bash
+git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
 ```
