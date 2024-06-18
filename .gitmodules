@@ -134,10 +134,6 @@
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
 	branch = master
-[submodule "moodle/course/format/wplist"]
-	path = moodle/course/format/wplist
-	url = https://github.com/moodleworkplace/moodle-format_wplist.git
-	branch = master
 [submodule "moodle/lib/editor/tiny/plugins/cloze"]
 	path = moodle/lib/editor/tiny/plugins/cloze
 	url = https://github.com/srobotta/moodle-tiny_cloze.git
