@@ -99,7 +99,7 @@ git submodule update --init
 ### ATTO
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
-git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
+git submodule add -b MOODLE_42_STABLE https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
 ```
 
 - https://github.com/dthies/moodle-atto_fullscreen
