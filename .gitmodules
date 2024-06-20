@@ -30,10 +30,6 @@
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
-[submodule "moodle/lib/editor/atto/plugins/cloze"]
-	path = moodle/lib/editor/atto/plugins/cloze
-	url = https://github.com/dthies/moodle-atto_cloze.git
-	branch = master
 [submodule "moodle/lib/editor/atto/plugins/fullscreen"]
 	path = moodle/lib/editor/atto/plugins/fullscreen
 	url = https://github.com/dthies/moodle-atto_fullscreen.git
