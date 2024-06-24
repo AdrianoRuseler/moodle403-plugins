@@ -260,7 +260,7 @@ git submodule add -b moodle43 https://bitbucket.org/dw8/moodle-format_tiles.git 
 
 - https://gitlab.com/drlikm/format_etask
 ```bash
-git submodule add -b master https://gitlab.com/drlikm/format_etask.git course/format/etask
+git submodule add -b FORMAT_ETASK_23_STABLE https://gitlab.com/drlikm/format_etask.git course/format/etask
 ```
 
 
