@@ -226,3 +226,7 @@
 	path = moodle/lib/editor/atto/plugins/cloze
 	url = https://github.com/dthies/moodle-atto_cloze.git
 	branch = MOODLE_42_STABLE
+[submodule "moodle/course/format/etask"]
+	path = moodle/course/format/etask
+	url = https://gitlab.com/drlikm/format_etask.git
+	branch = FORMAT_ETASK_23_STABLE
