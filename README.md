@@ -176,7 +176,7 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 
 - https://github.com/MFreakNL/moodle-availability_ipaddress
 ```bash
-git submodule add -b master https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
+git submodule add -b main https://github.com/MFreakNL/moodle-availability_ipaddress.git availability/condition/ipaddress
 ```
 ### QTYPE
 - https://github.com/moodleou/moodle-qtype_oumultiresponse
