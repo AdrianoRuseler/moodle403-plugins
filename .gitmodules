@@ -230,3 +230,7 @@
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
 	branch = master
+[submodule "moodle/availability/condition/ipaddress"]
+	path = moodle/availability/condition/ipaddress
+	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
+	branch = main
