@@ -230,3 +230,7 @@
 	path = moodle/availability/condition/ipaddress
 	url = https://github.com/MFreakNL/moodle-availability_ipaddress.git
 	branch = main
+[submodule "moodle/lib/editor/tiny/plugins/fontcolor"]
+	path = moodle/lib/editor/tiny/plugins/fontcolor
+	url = https://github.com/bfh/moodle-tiny_fontcolor.git
+	branch = main
