@@ -130,10 +130,6 @@
 	path = moodle/filter/ace_inline
 	url = https://github.com/trampgeek/moodle-filter_ace_inline.git
 	branch = master
-[submodule "moodle/lib/editor/tiny/plugins/fontcolor"]
-	path = moodle/lib/editor/tiny/plugins/fontcolor
-	url = https://github.com/bfh/moodle-tiny_fontcolor.git
-	branch = master
 [submodule "moodle/mod/subcourse"]
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
