@@ -230,3 +230,7 @@
 	path = moodle/lib/editor/tiny/plugins/fontcolor
 	url = https://github.com/bfh/moodle-tiny_fontcolor.git
 	branch = main
+[submodule "moodle/filter/ace_inline"]
+	path = moodle/filter/ace_inline
+	url = https://github.com/trampgeek/moodle-filter_ace_inline.git
+	branch = main
