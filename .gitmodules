@@ -114,10 +114,6 @@
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
 	branch = master
-[submodule "moodle/enrol/autoenrol"]
-	path = moodle/enrol/autoenrol
-	url = https://github.com/bobopinna/moodle-enrol_autoenrol.git
-	branch = master
 [submodule "moodle/lib/editor/tiny/plugins/cloze"]
 	path = moodle/lib/editor/tiny/plugins/cloze
 	url = https://github.com/srobotta/moodle-tiny_cloze.git
