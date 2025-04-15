@@ -230,3 +230,7 @@
 	path = moodle/lib/editor/atto/plugins/cloze
 	url = https://github.com/dthies/moodle-atto_cloze.git
 	branch = master
+[submodule "moodle/lib/editor/tiny/plugins/fontcolor"]
+	path = moodle/lib/editor/tiny/plugins/fontcolor
+	url = https://github.com/bfh/moodle-tiny_fontcolor.git
+	branch = main
