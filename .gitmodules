@@ -202,10 +202,6 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_403_STABLE
-[submodule "moodle/lib/editor/atto/plugins/cloze"]
-	path = moodle/lib/editor/atto/plugins/cloze
-	url = https://github.com/dthies/moodle-atto_cloze.git
-	branch = MOODLE_42_STABLE
 [submodule "moodle/course/format/etask"]
 	path = moodle/course/format/etask
 	url = https://gitlab.com/drlikm/format_etask.git
