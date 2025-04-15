@@ -230,3 +230,7 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = MOODLE_403_STABLE
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = MOODLE_403_STABLE
