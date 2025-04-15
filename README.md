@@ -82,7 +82,7 @@ git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle
 
 - https://github.com/mudrd8mz/moodle-mod_subcourse
 ```bash
-git submodule add -b MOODLE_402_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+git submodule add -b MOODLE_403_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 - https://github.com/ecampbell/moodle-booktool_wordimport
 ```bash
@@ -99,7 +99,7 @@ git submodule update --init
 ### ATTO
 - https://github.com/dthies/moodle-atto_cloze
 ```bash
-git submodule add -b MOODLE_42_STABLE https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
+git submodule add -b master https://github.com/dthies/moodle-atto_cloze.git lib/editor/atto/plugins/cloze
 ```
 
 - https://github.com/dthies/moodle-atto_fullscreen
