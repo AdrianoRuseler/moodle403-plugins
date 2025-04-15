@@ -307,15 +307,6 @@ git submodule add -b MOODLE_403_STABLE https://github.com/moodleuulm/moodle-loca
 git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi.git mod/jitsi
 ```
 
-- https://github.com/bynare/moodle-enrol_auto
-```bash
-git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
-```
-- https://github.com/moodleuulm/moodle-local_sandbox
-```bash
-git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
-```
-
 ## REMOVED
 
 - https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
@@ -329,4 +320,9 @@ git submodule add -b MOODLE_400 https://github.com/vtos/moodle-mod_adaptivequiz.
 - https://github.com/moodleworkplace/moodle-format_wplist
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
+```
+
+- https://github.com/bynare/moodle-enrol_auto
+```bash
+git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/auto
 ```
