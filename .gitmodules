@@ -126,10 +126,6 @@
 	path = moodle/lib/editor/tiny/plugins/cloze
 	url = https://github.com/srobotta/moodle-tiny_cloze.git
 	branch = main
-[submodule "moodle/mod/subcourse"]
-	path = moodle/mod/subcourse
-	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
-	branch = MOODLE_402_STABLE
 [submodule "moodle/mod/jitsi"]
 	path = moodle/mod/jitsi
 	url = https://github.com/udima-university/moodle-mod_jitsi.git
