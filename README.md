@@ -84,10 +84,6 @@ git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle
 ```bash
 git submodule add -b MOODLE_403_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
-- https://github.com/ecampbell/moodle-booktool_wordimport
-```bash
-git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
-```
 
 - https://github.com/h5p/h5p-moodle-plugin
 ```bash
@@ -233,10 +229,6 @@ git submodule add -b master https://github.com/Syxton/moodle-tool_coursearchiver
 ```bash
 git submodule add -b main https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
-- https://github.com/learnweb/moodle-tool_lifecycle
-```bash
-git submodule add -b master https://github.com/learnweb/moodle-tool_lifecycle.git admin/tool/lifecycle
-```
 
 ### ENROL
 
@@ -308,7 +300,15 @@ git submodule add -b master https://github.com/udima-university/moodle-mod_jitsi
 ```
 
 ## REMOVED
+- https://github.com/learnweb/moodle-tool_lifecycle
+```bash
+git submodule add -b master https://github.com/learnweb/moodle-tool_lifecycle.git admin/tool/lifecycle
+```
 
+- https://github.com/ecampbell/moodle-booktool_wordimport
+```bash
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
+```
 - https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
 ```bash
 git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
