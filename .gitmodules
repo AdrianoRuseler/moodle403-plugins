@@ -138,10 +138,6 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/admin/tool/certificate"]
-	path = moodle/admin/tool/certificate
-	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
-	branch = MOODLE_400_STABLE
 [submodule "moodle/report/customsql"]
 	path = moodle/report/customsql
 	url = https://github.com/moodleou/moodle-report_customsql.git
