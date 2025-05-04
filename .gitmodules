@@ -170,10 +170,6 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_403_STABLE
-[submodule "moodle/course/format/etask"]
-	path = moodle/course/format/etask
-	url = https://gitlab.com/drlikm/format_etask.git
-	branch = FORMAT_ETASK_23_STABLE
 [submodule "moodle/course/format/wplist"]
 	path = moodle/course/format/wplist
 	url = https://github.com/moodleworkplace/moodle-format_wplist.git
