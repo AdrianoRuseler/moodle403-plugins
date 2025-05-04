@@ -19,9 +19,11 @@ jobs:
 
       - name: Update Git Submodules
         run: |
+          echo "Starting submodule sync --recursive..."
           git submodule sync --recursive || { echo "Submodule sync failed"; exit 1; }
-          git submodule foreach git reset --hard HEAD || { echo "Submodule foreach git reset --hard HEAD failed"; exit 1; }
+          echo "Starting submodule update --init..."
           git submodule update --init || { echo "Submodule initialization failed"; exit 1; }
+          echo "Starting submodule update --remote..."
           git submodule update --remote || { echo "Submodule update failed"; exit 1; }
         shell: bash
         
