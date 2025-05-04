@@ -190,7 +190,3 @@
 	path = moodle/report/coursesize
 	url = https://github.com/catalyst/moodle-report_coursesize.git
 	branch = MOODLE_401_STABLE
-[submodule "moodle/local/sandbox"]
-	path = moodle/local/sandbox
-	url = https://github.com/moodleuulm/moodle-local_sandbox.git
-	branch = MOODLE_403_STABLE
