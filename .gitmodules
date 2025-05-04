@@ -214,7 +214,3 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = MOODLE_403_STABLE
-[submodule "moodle/admin/tool/certificate"]
-	path = moodle/admin/tool/certificate
-	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
-	branch = MOODLE_400_STABLE
